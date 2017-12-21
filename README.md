@@ -1,0 +1,2 @@
+# Marketing-Analytics-Using-Python-and-R
+The objective of this project is to discuss the importance of Machine Learning in different sectors and how does it solve the problems in the Marketing Analytics field. We have discussed Marketing Segmentation, Advertisement, and Fraud detection in our project. We used different Machine Learning algorithms and used R and Python library to predict and solve these problems.
